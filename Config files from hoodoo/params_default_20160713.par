@@ -1,0 +1,16 @@
+{
+        "clip_size":100,
+        "detect_threshold":4.5,
+        "detect_interval":10,
+        "shell_increment":3,
+        "min_shell_size":150,
+        "samplerate":32556,
+        "sign":1,
+        "freq_min":300,
+        "freq_max":10000,
+        "num_fea":10,
+        "adj_radius":5,
+        "channels":"1,2,3,4",
+        "timerange":[-1,-1]
+}
+
